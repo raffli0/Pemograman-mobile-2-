@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550123308068",
+    "project_id": "pos-restaurant-107cc",
+    "storage_bucket": "pos-restaurant-107cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550123308068:android:7ea8bf0a243167dbb1c4b1",
+        "android_client_info": {
+          "package_name": "com.example.point_of_sale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHewpZE7wyPPzAQxysqnnz4Z8b5mf9clc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
